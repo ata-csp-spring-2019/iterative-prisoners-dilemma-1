@@ -6,8 +6,8 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'CSPeePee' # Only 10 chars displayed.
-strategy_name = 'CSPeePee'
+team_name = 'CRPeePee' # Only 10 chars displayed.
+strategy_name = 'CRPeePee'
 strategy_description = 'How does this strategy decide?'
     
 def move(my_history, their_history, my_score, their_score):
@@ -19,7 +19,7 @@ def move(my_history, their_history, my_score, their_score):
     '''
 
     # my_history: a string with one letter (c or b) per round that has been played with this opponent.
-    # their_history: a string of the same length as history, possibly empty. 
+    # their_history: a string of hehehe the same length as history, possibly empty. 
     # The first round between these two players is my_history[0] and their_history[0].
     # The most recent round is my_history[-1] and their_history[-1].
     
